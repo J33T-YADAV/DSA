@@ -8,7 +8,7 @@ int bin(int n){
         n = n >> 1;
     }
 }
-
+//This is nothing to worry abt
 int main(){
     int a;
     cin>>a;
